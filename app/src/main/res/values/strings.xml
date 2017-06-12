@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Highest Hand Card Game</string>
+    <string name="welcome_text">Welcome to the highest hand card game</string>
+    <string name="rules_title">To play the game:</string>
+    <string name="rules_text">
+        \n 1. Select the <font fgcolor="#ffff0000">Play</font>  button
+        \n 2. Deal a player\'s card by using the <font fgcolor="#ffff0000">Deal</font> button
+        \n 3. A player\'s hand appears under the button
+        \n 4. You have up to <font fgcolor="#ffff0000">4</font> deals per player
+        \n 5. Select <font fgcolor="#ffff0000">Get Result</font> to compare hands
+    </string>
+    <string name="enter_button">Play</string>
+    <string name="button_player1">Deal to Player1</string>
+    <string name="button_player2">Deal to Player2</string>
+    <string name="player1_choice_text"></string>
+    <string name="player2_choice_text"></string>
+    <string name="button_result">Get Result</string>
+    <string name="game_result_text"></string>
+    <string name="button_play_again">Play Again</string>
+</resources>
